@@ -5,7 +5,7 @@
 ![软件界面](doc/img/demo_1.png)
 
 
-![软件操作界面](doc\img\opeator_show.gif)
+![软件操作界面](doc/img/opeator_show.gif)
 
 
 
